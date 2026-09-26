@@ -122,6 +122,121 @@
       "name": "Pokemon Ultra Sun",
       "file": "jingles/n3ds/us.ogg",
       "regex": "(?i)(ultra sun|ultra-soleil)"
+    },
+    {
+      "name": "Animal Crossing - New Leaf",
+      "file": "jingles/n3ds/acnl.ogg",
+      "regex": "(?i)animal crossing.*new leaf"
+    },
+    {
+      "name": "Dragon Quest VIII - Journey of the Cursed King",
+      "file": "jingles/n3ds/dq8.ogg",
+      "regex": "(?i)dragon quest viii"
+    },
+    {
+      "name": "Fire Emblem Echoes - Shadows of Valentia",
+      "file": "jingles/n3ds/feecho.ogg",
+      "regex": "(?i)fire emblem echoes"
+    },
+    {
+      "name": "Fire Emblem Fates",
+      "file": "jingles/n3ds/fefates.ogg",
+      "regex": "(?i)fire emblem fates"
+    },
+    {
+      "name": "Fire Emblem - Awakening",
+      "file": "jingles/n3ds/feawak.ogg",
+      "regex": "(?i)fire emblem.*awakening"
+    },
+    {
+      "name": "Kid Icarus - Uprising",
+      "file": "jingles/n3ds/kidicarus.ogg",
+      "regex": "(?i)kid icarus"
+    },
+    {
+      "name": "Kirby - Planet Robobot",
+      "file": "jingles/n3ds/kirbypr.ogg",
+      "regex": "(?i)planet robobot"
+    },
+    {
+      "name": "Kirby - Triple Deluxe",
+      "file": "jingles/n3ds/kirbytd.ogg",
+      "regex": "(?i)triple deluxe"
+    },
+    {
+      "name": "Legend of Zelda, The - A Link Between Worlds",
+      "file": "jingles/n3ds/albw.ogg",
+      "regex": "(?i)link between worlds"
+    },
+    {
+      "name": "Legend of Zelda, The - Majora's Mask 3D",
+      "file": "jingles/n3ds/mm3d.ogg",
+      "regex": "(?i)majora"
+    },
+    {
+      "name": "Legend of Zelda, The - Ocarina of Time 3D",
+      "file": "jingles/n3ds/oot3d.ogg",
+      "regex": "(?i)ocarina of time"
+    },
+    {
+      "name": "Luigi's Mansion",
+      "file": "jingles/n3ds/lm3ds.ogg",
+      "regex": "(?i)^luigi'?s mansion(?!.*(dark moon|2|3))"
+    },
+    {
+      "name": "Mario & Luigi - Dream Team",
+      "file": "jingles/n3ds/mldt.ogg",
+      "regex": "(?i)dream team"
+    },
+    {
+      "name": "Metroid - Samus Returns",
+      "file": "jingles/n3ds/metsr.ogg",
+      "regex": "(?i)samus returns"
+    },
+    {
+      "name": "Monster Hunter 4 Ultimate",
+      "file": "jingles/n3ds/mh4u.ogg",
+      "regex": "(?i)monster hunter 4"
+    },
+    {
+      "name": "Pokemon Super Mystery Dungeon",
+      "file": "jingles/n3ds/psmd.ogg",
+      "regex": "(?i)super mystery dungeon"
+    },
+    {
+      "name": "Professor Layton and the Azran Legacy",
+      "file": "jingles/n3ds/laz.ogg",
+      "regex": "(?i)layton.*azran"
+    },
+    {
+      "name": "Professor Layton and the Miracle Mask",
+      "file": "jingles/n3ds/lmm.ogg",
+      "regex": "(?i)layton.*miracle mask"
+    },
+    {
+      "name": "Professor Layton vs Phoenix Wright - Ace Attorney",
+      "file": "jingles/n3ds/lvp.ogg",
+      "regex": "(?i)layton vs"
+    },
+    {
+      "name": "Super Mario 3D Land",
+      "file": "jingles/n3ds/sm3dl.ogg",
+      "regex": "(?i)super mario 3d land"
+    },
+    {
+      "name": "Yo-Kai Watch",
+      "file": "jingles/n3ds/yw1.ogg",
+      "regex": "(?i)^yo-?kai watch( \\(|$)"
+    },
+    {
+      "name": "Yo-Kai Watch 2",
+      "file": "jingles/n3ds/yw2.ogg",
+      "regex": "(?i)yo-?kai watch 2"
+    },
+    {
+      "name": "Yo-Kai Watch 3",
+      "file": "jingles/n3ds/yw3.ogg",
+      "regex": "(?i)yo-?kai watch 3"
     }
   ]
 }
