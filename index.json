@@ -1,0 +1,115 @@
+{
+  "name": "Sandro's Thor Jingles",
+  "nds": [
+    {
+      "name": "Pokemon - SoulSilver Version",
+      "file": "jingles/nds/soulsilver.ogg",
+      "regex": "(?i)(soul ?silver|heart ?gold)"
+    },
+    {
+      "name": "Pokemon - Platinum Version",
+      "file": "jingles/nds/platinum.ogg",
+      "regex": "(?i)pok.mon.*platin"
+    },
+    {
+      "name": "Pokemon - Black Version",
+      "file": "jingles/nds/black.ogg",
+      "regex": "(?i)pok.mon.*(black|noire)(?!.*2)"
+    },
+    {
+      "name": "Pokemon - Black Version 2",
+      "file": "jingles/nds/black2.ogg",
+      "regex": "(?i)pok.mon.*(black|noire).*2"
+    },
+    {
+      "name": "Legend of Zelda, The - Phantom Hourglass",
+      "file": "jingles/nds/ph.ogg",
+      "regex": "(?i)phantom hourglass"
+    },
+    {
+      "name": "Legend of Zelda, The - Spirit Tracks",
+      "file": "jingles/nds/st.ogg",
+      "regex": "(?i)spirit tracks"
+    },
+    {
+      "name": "Mario & Luigi - Partners in Time",
+      "file": "jingles/nds/ml.ogg",
+      "regex": "(?i)partners in time"
+    },
+    {
+      "name": "Kirby Super Star Ultra",
+      "file": "jingles/nds/kirby.ogg",
+      "regex": "(?i)kirby super star ultra"
+    },
+    {
+      "name": "Dragon Quest IX - Sentinels of the Starry Skies",
+      "file": "jingles/nds/dq9.ogg",
+      "regex": "(?i)dragon quest ix"
+    },
+    {
+      "name": "Pokemon Mystery Dungeon - Explorers of Sky",
+      "file": "jingles/nds/pmd.ogg",
+      "regex": "(?i)explorers of sky"
+    },
+    {
+      "name": "Sonic Rush",
+      "file": "jingles/nds/sr.ogg",
+      "regex": "(?i)^sonic rush(?! adventure)"
+    },
+    {
+      "name": "Sonic Rush Adventure",
+      "file": "jingles/nds/sra.ogg",
+      "regex": "(?i)sonic rush adventure"
+    },
+    {
+      "name": "Professor Layton and the Curious Village",
+      "file": "jingles/nds/lay1.ogg",
+      "regex": "(?i)layton.*(curious village|trange village)"
+    },
+    {
+      "name": "Professor Layton and the Diabolical Box",
+      "file": "jingles/nds/lay2.ogg",
+      "regex": "(?i)layton.*(diabolical box|pandora)"
+    },
+    {
+      "name": "Professor Layton and the Unwound Future",
+      "file": "jingles/nds/lay3.ogg",
+      "regex": "(?i)layton.*(unwound|lost future|destin perdu)"
+    },
+    {
+      "name": "Professor Layton and the Last Specter",
+      "file": "jingles/nds/lay4.ogg",
+      "regex": "(?i)layton.*(last specter|spectre)"
+    },
+    {
+      "name": "World Ends with You, The",
+      "file": "jingles/nds/twewy.ogg",
+      "regex": "(?i)world ends with you"
+    },
+    {
+      "name": "Advance Wars - Dual Strike",
+      "file": "jingles/nds/aw.ogg",
+      "regex": "(?i)advance wars.*dual strike"
+    },
+    {
+      "name": "Advance Wars - Days of Ruin",
+      "file": "jingles/nds/aw2.ogg",
+      "regex": "(?i)advance wars.*(days of ruin|dark conflict)"
+    },
+    {
+      "name": "Elite Beat Agents",
+      "file": "jingles/nds/eba.ogg",
+      "regex": "(?i)elite beat agents"
+    },
+    {
+      "name": "Metroid Prime - Hunters",
+      "file": "jingles/nds/mph.ogg",
+      "regex": "(?i)metroid prime.*hunters"
+    },
+    {
+      "name": "Kirby - Canvas Curse",
+      "file": "jingles/nds/kcc.ogg",
+      "regex": "(?i)kirby.*(canvas curse|power paintbrush)"
+    }
+  ]
+}
