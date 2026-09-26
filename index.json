@@ -111,5 +111,22 @@
       "file": "jingles/nds/kcc.ogg",
       "regex": "(?i)kirby.*(canvas curse|power paintbrush)"
     }
+  ],
+  "n3ds": [
+    {
+      "name": "Pokemon X",
+      "file": "jingles/n3ds/x.ogg",
+      "regex": "(?i)pok.mon x\b"
+    },
+    {
+      "name": "Pokemon Omega Ruby",
+      "file": "jingles/n3ds/or.ogg",
+      "regex": "(?i)(omega ruby|rubis om)"
+    },
+    {
+      "name": "Pokemon Ultra Sun",
+      "file": "jingles/n3ds/us.ogg",
+      "regex": "(?i)(ultra sun|ultra-soleil)"
+    }
   ]
 }
