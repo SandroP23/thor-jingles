@@ -97,11 +97,6 @@
       "regex": "(?i)advance wars.*(days of ruin|dark conflict)"
     },
     {
-      "name": "Elite Beat Agents",
-      "file": "jingles/nds/eba.ogg",
-      "regex": "(?i)elite beat agents"
-    },
-    {
       "name": "Metroid Prime - Hunters",
       "file": "jingles/nds/mph.ogg",
       "regex": "(?i)metroid prime.*hunters"
